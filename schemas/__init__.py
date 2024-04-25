@@ -1,0 +1,2 @@
+from schemas.alunos import AlunosSchema, AlunosBuscaSchema, AlunosViewSchema, ListagemAlunosSchema, AlunosDelSchema, AlunosContrataPlanoSchema, MontaTreinoSchema, AddTreinoSchema, DeletaTreinoSchema, ConsultaAcademiasSchema, apresenta_alunos, apresenta_aluno 
+from schemas.error import ErrorSchema

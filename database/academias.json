@@ -1,0 +1,733 @@
+{
+  "academias": [
+    {
+      "id": 1,
+      "cidade": "Rio de Janeiro",
+      "cep": "22041-010",
+      "UF": "RJ",
+      "nome": "PUC Academia - Rio de Janeiro - Copacabana",
+      "endereco": "Avenida Atlântica, 1702",
+      "numero": 777
+    },
+    {
+      "id": 2,
+      "cidade": "Rio de Janeiro",
+      "cep": "21042-200",
+      "UF": "RJ",
+      "nome": "PUC Academia - Rio de Janeiro - Bairro do Exemplo",
+      "endereco": "Rua Barão de São Francisco, 236",
+      "numero": 567
+    },
+    {
+      "id": 3,
+      "cidade": "Rio de Janeiro",
+      "cep": "22775-002",
+      "UF": "RJ",
+      "nome": "PUC Academia - Rio de Janeiro - Bairro Fictício",
+      "endereco": "Estrada dos Bandeirantes, 8674",
+      "numero": 890
+    },
+    {
+      "id": 4,
+      "cidade": "São Paulo",
+      "cep": "01451-000",
+      "UF": "SP",
+      "nome": "PUC Academia - São Paulo - Jardins",
+      "endereco": "Alameda Lorena, 793",
+      "numero": 1011
+    },
+    {
+      "id": 5,
+      "cidade": "São Paulo",
+      "cep": "05541-060",
+      "UF": "SP",
+      "nome": "PUC Academia - São Paulo - Morumbi",
+      "endereco": "Avenida Morumbi, 12852",
+      "numero": 20202
+    },
+    {
+      "id": 6,
+      "cidade": "São Paulo",
+      "cep": "04548-004",
+      "UF": "SP",
+      "nome": "PUC Academia - São Paulo - Brooklin",
+      "endereco": "Rua Sansão Alves dos Santos, 116",
+      "numero": 303
+    },
+    {
+      "id": 7,
+      "cidade": "Brasília",
+      "cep": "70070-000",
+      "UF": "DF",
+      "nome": "PUC Academia - Brasília - Asa Sul",
+      "endereco": "Quadra 302, Bloco C",
+      "numero": 404
+    },
+    {
+      "id": 8,
+      "cidade": "Brasília",
+      "cep": "71020-025",
+      "UF": "DF",
+      "nome": "PUC Academia - Brasília - Sudoeste",
+      "endereco": "SQSW 304, Bloco D",
+      "numero": 505
+    },
+    {
+      "id": 9,
+      "cidade": "Brasília",
+      "cep": "72501-214",
+      "UF": "DF",
+      "nome": "PUC Academia - Brasília - Taguatinga",
+      "endereco": "QNA 29, Lote 6",
+      "numero": 606
+    },
+    {
+      "id": 10,
+      "cidade": "Porto Alegre",
+      "cep": "90450-090",
+      "UF": "RS",
+      "nome": "PUC Academia - Porto Alegre - Moinhos de Vento",
+      "endereco": "Rua Mostardeiro, 888",
+      "numero": 707
+    },
+    {
+      "id": 11,
+      "cidade": "Porto Alegre",
+      "cep": "91330-320",
+      "UF": "RS",
+      "nome": "PUC Academia - Porto Alegre - Petrópolis",
+      "endereco": "Avenida Protásio Alves, 6228",
+      "numero": 808
+    },
+    {
+      "id": 12,
+      "cidade": "Porto Alegre",
+      "cep": "91770-000",
+      "UF": "RS",
+      "nome": "PUC Academia - Porto Alegre - Cavalhada",
+      "endereco": "Avenida Cavalhada, 2370",
+      "numero": 909
+    },
+    {
+      "id": 13,
+      "cidade": "Fortaleza",
+      "cep": "60175-020",
+      "UF": "CE",
+      "nome": "PUC Academia - Fortaleza - Aldeota",
+      "endereco": "Avenida Dom Luís, 500",
+      "numero": 1112
+    },
+    {
+      "id": 14,
+      "cidade": "Fortaleza",
+      "cep": "60811-340",
+      "UF": "CE",
+      "nome": "PUC Academia - Fortaleza - Parangaba",
+      "endereco": "Rua Sete de Setembro, 3725",
+      "numero": 2223
+    },
+    {
+      "id": 15,
+      "cidade": "Fortaleza",
+      "cep": "60511-190",
+      "UF": "CE",
+      "nome": "PUC Academia - Fortaleza - José de Alencar",
+      "endereco": "Avenida Senador Fernandes Távora, 3633",
+      "numero": 3334
+    },
+    {
+      "id": 16,
+      "cidade": "Recife",
+      "cep": "52041-540",
+      "UF": "PE",
+      "nome": "PUC Academia - Recife - Graças",
+      "endereco": "Rua Joaquim Nabuco, 125",
+      "numero": 4445
+    },
+    {
+      "id": 17,
+      "cidade": "Recife",
+      "cep": "51030-540",
+      "UF": "PE",
+      "nome": "PUC Academia - Recife - Boa Viagem",
+      "endereco": "Avenida Engenheiro Domingos Ferreira, 3774",
+      "numero": 5556
+    },
+    {
+      "id": 18,
+      "cidade": "Recife",
+      "cep": "52021-000",
+      "UF": "PE",
+      "nome": "PUC Academia - Recife - Casa Forte",
+      "endereco": "Rua João Tude de Melo, 77",
+      "numero": 697
+    },
+    {
+      "id": 19,
+      "cidade": "Salvador",
+      "cep": "40170-110",
+      "UF": "BA",
+      "nome": "PUC Academia - Salvador - Ondina",
+      "endereco": "Avenida Oceânica, 591",
+      "numero": 778
+    },
+    {
+      "id": 20,
+      "cidade": "Salvador",
+      "cep": "41750-400",
+      "UF": "BA",
+      "nome": "PUC Academia - Salvador - Pituba",
+      "endereco": "Rua Amazonas, 1000",
+      "numero": 89
+    },
+    {
+      "id": 21,
+      "cidade": "Salvador",
+      "cep": "40255-200",
+      "UF": "BA",
+      "nome": "PUC Academia - Salvador - Barra",
+      "endereco": "Largo do Farol da Barra, s/n",
+      "numero": 9990
+    },
+    {
+      "id": 22,
+      "cidade": "Rio Branco",
+      "cep": "69918-214",
+      "UF": "AC",
+      "nome": "PUC Academia - Rio Branco - Centro",
+      "endereco": "Avenida Ceará, 150",
+      "numero": 1113
+    },
+    {
+      "id": 23,
+      "cidade": "Rio Branco",
+      "cep": "69908-540",
+      "UF": "AC",
+      "nome": "PUC Academia - Rio Branco - Bosque",
+      "endereco": "Rua Alagoas, 130",
+      "numero": 2224
+    },
+    {
+      "id": 24,
+      "cidade": "Rio Branco",
+      "cep": "69905-598",
+      "UF": "AC",
+      "nome": "PUC Academia - Rio Branco - Aeroporto Velho",
+      "endereco": "Estrada do Aviário, 240",
+      "numero": 3335
+    },
+    {
+      "id": 25,
+      "cidade": "Maceió",
+      "cep": "57035-400",
+      "UF": "AL",
+      "nome": "PUC Academia - Maceió - Ponta Verde",
+      "endereco": "Avenida Álvaro Otacílio, 3846",
+      "numero": 4446
+    },
+    {
+      "id": 26,
+      "cidade": "Maceió",
+      "cep": "57025-190",
+      "UF": "AL",
+      "nome": "PUC Academia - Maceió - Farol",
+      "endereco": "Rua Sá e Albuquerque, 60",
+      "numero": 5557
+    },
+    {
+      "id": 27,
+      "cidade": "Maceió",
+      "cep": "57073-220",
+      "UF": "AL",
+      "nome": "PUC Academia - Maceió - Jatiúca",
+      "endereco": "Avenida Engenheiro Paulo Brandão Nogueira, 1160",
+      "numero": 6668
+    },
+    {
+      "id": 28,
+      "cidade": "Macapá",
+      "cep": "68908-970",
+      "UF": "AP",
+      "nome": "PUC Academia - Macapá - Central",
+      "endereco": "Avenida Coaracy Nunes, 30",
+      "numero": 7779
+    },
+    {
+      "id": 29,
+      "cidade": "Macapá",
+      "cep": "68904-250",
+      "UF": "AP",
+      "nome": "PUC Academia - Macapá - Santa Rita",
+      "endereco": "Rua Leopoldo Machado, 2335",
+      "numero": 8880
+    },
+    {
+      "id": 30,
+      "cidade": "Macapá",
+      "cep": "68900-350",
+      "UF": "AP",
+      "nome": "PUC Academia - Macapá - Buritizal",
+      "endereco": "Avenida Duque de Caxias, 1815",
+      "numero": 9991
+    },
+    {
+      "id": 31,
+      "cidade": "Manaus",
+      "cep": "69058-240",
+      "UF": "AM",
+      "nome": "PUC Academia - Manaus - Adrianópolis",
+      "endereco": "Rua Salvador, 455",
+      "numero": 10
+    },
+    {
+      "id": 32,
+      "cidade": "Manaus",
+      "cep": "69088-134",
+      "UF": "AM",
+      "nome": "PUC Academia - Manaus - Parque 10 de Novembro",
+      "endereco": "Avenida Djalma Batista, 500",
+      "numero": 11112
+    },
+    {
+      "id": 33,
+      "cidade": "Manaus",
+      "cep": "69047-000",
+      "UF": "AM",
+      "nome": "PUC Academia - Manaus - Cidade Nova",
+      "endereco": "Rua Maracanã, 777",
+      "numero": 123
+    },
+    {
+      "id": 34,
+      "cidade": "Vitória",
+      "cep": "29045-402",
+      "UF": "ES",
+      "nome": "PUC Academia - Vitória - Praia do Canto",
+      "endereco": "Avenida Rio Branco, 5",
+      "numero": 134
+    },
+    {
+      "id": 35,
+      "cidade": "Vitória",
+      "cep": "29055-180",
+      "UF": "ES",
+      "nome": "PUC Academia - Vitória - Jardim da Penha",
+      "endereco": "Rua da Lama, 666",
+      "numero": 145
+    },
+    {
+      "id": 36,
+      "cidade": "Vitória",
+      "cep": "29090-431",
+      "UF": "ES",
+      "nome": "PUC Academia - Vitória - Jardim Camburi",
+      "endereco": "Avenida Fernando Ferrari, 365",
+      "numero": 16
+    },
+    {
+      "id": 37,
+      "cidade": "Goiânia",
+      "cep": "74083-010",
+      "UF": "GO",
+      "nome": "PUC Academia - Goiânia - Setor Central",
+      "endereco": "Rua 4, 132",
+      "numero": 117
+    },
+    {
+      "id": 38,
+      "cidade": "Goiânia",
+      "cep": "74353-530",
+      "UF": "GO",
+      "nome": "PUC Academia - Goiânia - Setor Marista",
+      "endereco": "Avenida 85, 320",
+      "numero": 171
+    },
+    {
+      "id": 39,
+      "cidade": "Goiânia",
+      "cep": "74845-380",
+      "UF": "GO",
+      "nome": "PUC Academia - Goiânia - Jardim Goiás",
+      "endereco": "Avenida T-10, 45",
+      "numero": 687
+    },
+    {
+      "id": 40,
+      "cidade": "São Luís",
+      "cep": "65075-120",
+      "UF": "MA",
+      "nome": "PUC Academia - São Luís - Ponta D'Areia",
+      "endereco": "Avenida Litorânea, s/n",
+      "numero": 614
+    },
+    {
+      "id": 41,
+      "cidade": "São Luís",
+      "cep": "65058-750",
+      "UF": "MA",
+      "nome": "PUC Academia - São Luís - Renascença",
+      "endereco": "Rua dos Bobos, 0",
+      "numero": 701
+    },
+    {
+      "id": 42,
+      "cidade": "São Luís",
+      "cep": "65025-007",
+      "UF": "MA",
+      "nome": "PUC Academia - São Luís - Beira-Mar",
+      "endereco": "Avenida dos Holandeses, 2000",
+      "numero": 667
+    },
+    {
+      "id": 43,
+      "cidade": "Cuiabá",
+      "cep": "78048-410",
+      "UF": "MT",
+      "nome": "PUC Academia - Cuiabá - Jardim das Américas",
+      "endereco": "Avenida Miguel Sutil, 2000",
+      "numero": 998
+    },
+    {
+      "id": 44,
+      "cidade": "Cuiabá",
+      "cep": "78058-004",
+      "UF": "MT",
+      "nome": "PUC Academia - Cuiabá - Centro Político Administrativo",
+      "endereco": "Rua Barão de Melgaço, 999",
+      "numero": 568
+    },
+    {
+      "id": 45,
+      "cidade": "Cuiabá",
+      "cep": "78040-295",
+      "UF": "MT",
+      "nome": "PUC Academia - Cuiabá - Araés",
+      "endereco": "Avenida Isaac Póvoas, 555",
+      "numero": 625
+    },
+    {
+      "id": 46,
+      "cidade": "Campo Grande",
+      "cep": "79002-351",
+      "UF": "MS",
+      "nome": "PUC Academia - Campo Grande - Centro",
+      "endereco": "Avenida Afonso Pena, 1234",
+      "numero": 126
+    },
+    {
+      "id": 47,
+      "cidade": "Campo Grande",
+      "cep": "79010-220",
+      "UF": "MS",
+      "nome": "PUC Academia - Campo Grande - Jardim dos Estados",
+      "endereco": "Rua Antônio Maria Coelho, 555",
+      "numero": 727
+    },
+    {
+      "id": 48,
+      "cidade": "Campo Grande",
+      "cep": "79102-000",
+      "UF": "MS",
+      "nome": "PUC Academia - Campo Grande - Amambaí",
+      "endereco": "Rua Brilhante, 777",
+      "numero": 278
+    },
+    {
+      "id": 49,
+      "cidade": "Belém",
+      "cep": "66077-830",
+      "UF": "PA",
+      "nome": "PUC Academia - Belém - Nazaré",
+      "endereco": "Travessa Padre Eutíquio, 1000",
+      "numero": 29
+    },
+    {
+      "id": 50,
+      "cidade": "Belém",
+      "cep": "66070-380",
+      "UF": "PA",
+      "nome": "PUC Academia - Belém - Batista Campos",
+      "endereco": "Avenida Presidente Vargas, 1010",
+      "numero": 630
+    },
+    {
+      "id": 51,
+      "cidade": "Belém",
+      "cep": "66093-110",
+      "UF": "PA",
+      "nome": "PUC Academia - Belém - Marco",
+      "endereco": "Avenida Senador Lemos, 500",
+      "numero": 731
+    },
+    {
+      "id": 52,
+      "cidade": "João Pessoa",
+      "cep": "58051-650",
+      "UF": "PB",
+      "nome": "PUC Academia - João Pessoa - Tambauzinho",
+      "endereco": "Avenida Epitácio Pessoa, 1555",
+      "numero": 932
+    },
+    {
+      "id": 53,
+      "cidade": "João Pessoa",
+      "cep": "58031-080",
+      "UF": "PB",
+      "nome": "PUC Academia - João Pessoa - Manaíra",
+      "endereco": "Avenida Senador Ruy Carneiro, 100",
+      "numero": 393
+    },
+    {
+      "id": 54,
+      "cidade": "João Pessoa",
+      "cep": "58042-220",
+      "UF": "PB",
+      "nome": "PUC Academia - João Pessoa - Bessa",
+      "endereco": "Rua Empresário João Rodrigues Alves, 1500",
+      "numero": 334
+    },
+    {
+      "id": 55,
+      "cidade": "Curitiba",
+      "cep": "80060-120",
+      "UF": "PR",
+      "nome": "PUC Academia - Curitiba - Centro",
+      "endereco": "Rua Desembargador Westphalen, 1179",
+      "numero": 435
+    },
+    {
+      "id": 56,
+      "cidade": "Curitiba",
+      "cep": "80310-140",
+      "UF": "PR",
+      "nome": "PUC Academia - Curitiba - Batel",
+      "endereco": "Alameda Dr. Carlos de Carvalho, 1172",
+      "numero": 35236
+    },
+    {
+      "id": 57,
+      "cidade": "Curitiba",
+      "cep": "80430-000",
+      "UF": "PR",
+      "nome": "PUC Academia - Curitiba - Água Verde",
+      "endereco": "Rua Castro, 405",
+      "numero": 37
+    },
+    {
+      "id": 58,
+      "cidade": "Teresina",
+      "cep": "64049-800",
+      "UF": "PI",
+      "nome": "PUC Academia - Teresina - Jóquei",
+      "endereco": "Avenida Homero Castelo Branco, 1111",
+      "numero": 378
+    },
+    {
+      "id": 59,
+      "cidade": "Teresina",
+      "cep": "64018-320",
+      "UF": "PI",
+      "nome": "PUC Academia - Teresina - Piçarra",
+      "endereco": "Avenida Jockey Clube, 200",
+      "numero": 39
+    },
+    {
+      "id": 60,
+      "cidade": "Teresina",
+      "cep": "64028-205",
+      "UF": "PI",
+      "nome": "PUC Academia - Teresina - São Cristóvão",
+      "endereco": "Rua Jonatas Batista, 255",
+      "numero": 392
+    },
+    {
+      "id": 61,
+      "cidade": "Natal",
+      "cep": "59075-500",
+      "UF": "RN",
+      "nome": "PUC Academia - Natal - Ponta Negra",
+      "endereco": "Rua das Algas, 149",
+      "numero": 401
+    },
+    {
+      "id": 62,
+      "cidade": "Natal",
+      "cep": "59015-200",
+      "UF": "RN",
+      "nome": "PUC Academia - Natal - Tirol",
+      "endereco": "Avenida Hermes da Fonseca, 789",
+      "numero": 4124
+    },
+    {
+      "id": 63,
+      "cidade": "Natal",
+      "cep": "59010-100",
+      "UF": "RN",
+      "nome": "PUC Academia - Natal - Alecrim",
+      "endereco": "Rua dos Paianazes, 335",
+      "numero": 422
+    },
+    {
+      "id": 64,
+      "cidade": "Porto Velho",
+      "cep": "76801-075",
+      "UF": "RO",
+      "nome": "PUC Academia - Porto Velho - Centro",
+      "endereco": "Avenida 7 de Setembro, 2390",
+      "numero": 44
+    },
+    {
+      "id": 65,
+      "cidade": "Porto Velho",
+      "cep": "76824-042",
+      "UF": "RO",
+      "nome": "PUC Academia - Porto Velho - Areal",
+      "endereco": "Rua Benedito Inocêncio, 1500",
+      "numero": 45
+    },
+    {
+      "id": 66,
+      "cidade": "Porto Velho",
+      "cep": "76820-406",
+      "UF": "RO",
+      "nome": "PUC Academia - Porto Velho - Pedrinhas",
+      "endereco": "Avenida Jorge Teixeira, 1250",
+      "numero": 456
+    },
+    {
+      "id": 67,
+      "cidade": "Boa Vista",
+      "cep": "69301-075",
+      "UF": "RR",
+      "nome": "PUC Academia - Boa Vista - Centro",
+      "endereco": "Avenida Ville Roy, 290",
+      "numero": 447
+    },
+    {
+      "id": 68,
+      "cidade": "Boa Vista",
+      "cep": "69305-120",
+      "UF": "RR",
+      "nome": "PUC Academia - Boa Vista - São Francisco",
+      "endereco": "Avenida Major Williams, 450",
+      "numero": 47
+    },
+    {
+      "id": 69,
+      "cidade": "Boa Vista",
+      "cep": "69306-415",
+      "UF": "RR",
+      "nome": "PUC Academia - Boa Vista - Liberdade",
+      "endereco": "Rua José Magalhães, 175",
+      "numero": 4849
+    },
+    {
+      "id": 70,
+      "cidade": "Florianópolis",
+      "cep": "88020-000",
+      "UF": "SC",
+      "nome": "PUC Academia - Florianópolis - Centro",
+      "endereco": "Avenida Beira Mar Norte, 800",
+      "numero": 250
+    },
+    {
+      "id": 71,
+      "cidade": "Florianópolis",
+      "cep": "88036-000",
+      "UF": "SC",
+      "nome": "PUC Academia - Florianópolis - Trindade",
+      "endereco": "Rua João Pio Duarte Silva, 1200",
+      "numero": 551
+    },
+    {
+      "id": 72,
+      "cidade": "Florianópolis",
+      "cep": "88062-001",
+      "UF": "SC",
+      "nome": "PUC Academia - Florianópolis - Santa Mônica",
+      "endereco": "Rua Capitão Romualdo de Barros, 189",
+      "numero": 5252
+    },
+    {
+      "id": 73,
+      "cidade": "Aracaju",
+      "cep": "49020-190",
+      "UF": "SE",
+      "nome": "PUC Academia - Aracaju - Centro",
+      "endereco": "Avenida Beira Mar, 500",
+      "numero": 2253
+    },
+    {
+      "id": 74,
+      "cidade": "Aracaju",
+      "cep": "49097-700",
+      "UF": "SE",
+      "nome": "PUC Academia - Aracaju - Atalaia",
+      "endereco": "Avenida Santos Dumont, 200",
+      "numero": 254
+    },
+    {
+      "id": 75,
+      "cidade": "Aracaju",
+      "cep": "49015-320",
+      "UF": "SE",
+      "nome": "PUC Academia - Aracaju - 13 de Julho",
+      "endereco": "Rua São Salvador, 118",
+      "numero": 4255
+    },
+    {
+      "id": 76,
+      "cidade": "Palmas",
+      "cep": "77015-000",
+      "UF": "TO",
+      "nome": "PUC Academia - Palmas - Plano Diretor Sul",
+      "endereco": "Quadra 102 Sul, Avenida LO 3, 1424",
+      "numero": 552
+    },
+    {
+      "id": 77,
+      "cidade": "Palmas",
+      "cep": "77020-020",
+      "UF": "TO",
+      "nome": "PUC Academia - Palmas - Plano Diretor Norte",
+      "endereco": "Quadra 206 Norte, Avenida NS 10, 102",
+      "numero": 5657
+    },
+    {
+      "id": 78,
+      "cidade": "Palmas",
+      "cep": "77022-042",
+      "UF": "TO",
+      "nome": "PUC Academia - Palmas - Plano Diretor Noroeste",
+      "endereco": "Quadra 208 Norte, Alameda 19, 21",
+      "numero": 578
+    },
+    {
+      "id": 79,
+      "cidade": "Belo Horizonte",
+      "cep": "30110-918",
+      "UF": "MG",
+      "nome": "PUC Academia - Belo Horizonte - Centro",
+      "endereco": "Avenida Brasil, 2020",
+      "numero": 589
+    },
+    {
+      "id": 80,
+      "cidade": "Belo Horizonte",
+      "cep": "30315-901",
+      "UF": "MG",
+      "nome": "PUC Academia - Belo Horizonte - Lourdes",
+      "endereco": "Rua Curitiba, 2000",
+      "numero": 5960
+    },
+    {
+      "id": 81,
+      "cidade": "Belo Horizonte",
+      "cep": "30411-215",
+      "UF": "MG",
+      "nome": "PUC Academia - Belo Horizonte - Funcionários",
+      "endereco": "Avenida Getúlio Vargas, 2021",
+      "numero": 601
+    }
+  ]
+}
