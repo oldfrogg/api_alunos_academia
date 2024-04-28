@@ -63,6 +63,11 @@ Para criar um ambiente virtual é necessário navegar no terminal até o diretó
 python -m venv venv
 ```
 
+Dependendo da sua versão do Python e como estão configuradas as suas variáveis de ambiente, talvez deva-se colocar a versão do Python junto com o comando "python". Por exemplo:
+```
+python3 -m venv venv
+```
+
 Além de criar é necessário deixá-lo ativado para a instalação das bibliotecas e execução da aplicação.
 
 Para ativar o ambiente virtual, faça o  seguinte:
